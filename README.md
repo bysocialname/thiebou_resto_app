@@ -2,10 +2,10 @@
 
 ## Description du projet Thiebou Resto
 
-'''bash
+```bash
 git init
 git remote add origin SSH_REPO
-'''
+```
 
 ## Rediger un commit
 
