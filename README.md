@@ -1,6 +1,6 @@
-# Thiebou Resto Application
+## Thiebou Resto Application
 
-## Description du projet Thiebou Resto
+### Description du projet Thiebou Resto
  
 ```bash
 Thiebou Resto est un projet visant
