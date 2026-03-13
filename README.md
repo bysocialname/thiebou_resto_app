@@ -22,3 +22,9 @@ Composition de la page pour telephone : entete + contenu + pied de page
                  -- Liens hypertexte --
                  -- Logo Partener --
 ```
+## Nouvelle fonctionnalite
+
+Servive qui returne un value en chaine de caractere
+```bash
+Message de bienvenue a Value
+```
