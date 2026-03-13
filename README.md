@@ -12,7 +12,7 @@ des repas universitaires a domicile.
 ### Elaboration du front-end avec HTML-CSS-JS
 
 ```bash
-Composition de la page : entete + contenu + pied de page
+Composition de la page pour telephone : entete + contenu + pied de page
 
 - Entete : --Logo--  --Nothing--  --Menu Hamburger--
 
