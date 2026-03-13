@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8"/>
-        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <link rel="stylesheet" type="text/css" href="style/style.css"/>
         <script src="java.js" type="text/js"></script>
         <title> Thiebou Resto </title>
         <style>
@@ -11,7 +11,12 @@
     </head>
 
     <body>
-        <header>
+        <header id="message">
+            <script>
+                let nom = prompt("Quel est votre nom !");
+                let header = document.getElementById("message");
+                header.innerHTML = "<p> Bienvenue " + nom + "</p>"
+            </script>
 
         </header>
 
